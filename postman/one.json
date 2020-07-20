@@ -1,0 +1,41 @@
+{
+	"id": "851cbe8b-7dc5-b133-2e3e-860f953d512b",
+	"name": "test",
+	"description": "",
+	"order": [
+		"41668b90-dd7d-1407-e4ca-dafecc27839a"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1594362481009,
+	"owner": 0,
+	"public": false,
+	"events": [],
+	"variables": [],
+	"auth": null,
+	"requests": [
+		{
+			"id": "41668b90-dd7d-1407-e4ca-dafecc27839a",
+			"headers": "",
+			"headerData": [],
+			"url": "http://0.0.0.0:5000/v1/api/books",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"events": [],
+			"auth": null,
+			"method": "GET",
+			"collectionId": "851cbe8b-7dc5-b133-2e3e-860f953d512b",
+			"data": null,
+			"dataMode": "params",
+			"name": "获取所有书籍信息",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1594362538582,
+			"version": 2,
+			"responses": [],
+			"currentHelper": null,
+			"helperAttributes": null
+		}
+	]
+}
